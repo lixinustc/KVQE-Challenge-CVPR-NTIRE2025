@@ -3,7 +3,7 @@
   <img src="./figs/KVQE Challenge.png" alt="image" style="width:1000px;">
 </p>
 
-# KVQ: Kwai Video Quality Assessment for Short-form Videos
+# KVQE: Kwai Video Quality Assessment and Enhancement for Short-form Videos
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)]() [![Data](https://img.shields.io/badge/Dataset-Link-magenta.svg)](https://drive.google.com/drive/folders/1dkC4NsxMrd6Rxm1IogKe71U8bYy76ojV?usp=sharing)
 [![Challenge](https://img.shields.io/badge/Competition-Codalab-purple.svg)]() 
