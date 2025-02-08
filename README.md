@@ -9,11 +9,25 @@
 [![Challenge](https://img.shields.io/badge/Competition-Codalab-purple.svg)]() 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/KVQE-Challenge-CVPR-NTIRE2025)
 ## :bookmark: News!!!
-- [x] 2025-02-07: **Upload an example for KVQ competition based on <a href="https://github.com/sunwei925/SimpleVQA">SimpleVQA</a> in this GitHub.**
+- [x] 2025-02-07: **Two tracks of this competition have been started**
+- [x] 2025-02-08: **The first track can refer to the [KVQ competition](https://github.com/lixinustc/KVQ-Challenge-CVPR-NTIRE2024) in the CVPR NTIRE 2024** 
 
 ## 📌 Dataset for KVQE 
 
 ##  :tada: Challenge Description
+This competition has two tracks:
+
+### [Efficient Short-form UGC Video Quality Assessment](https://codalab.lisn.upsaclay.fr/competitions/21335)
+
+The first track is efficient short-form UGC video quality assessment, and the second track is Diffusion-based Super-resolution for the Short-form UGC Images in the Wild. The first track utilizes the KVQ, i.e., the large-scale Kaleidoscope short Video database for Quality assessment, for training, and evaluation. The KVQ database compromises 600 user-uploaded short videos and 3600 processed videos through diverse practical processing workflows. Moreover, it contains nine primary content scenarios in the practical short-form video platform, including landscape, crowd, person, food, portrait, computer graphic (termed as CG), caption, and stage, covering almost all existing creation modes and scenarios, and the ratio of each category of content satisfies the practical online statistics. The quality score of each short-form video and the partial ranked score are annotated by professional researchers on image processing. 
+
+### [Diffusion-based Image Super-resolution for Short-form UGC images in the wild](https://codalab.lisn.upsaclay.fr/competitions/21346)
+
+The second track collected 1800 synthetic paired images with a simulation strategy from the real-world Kwai Platform and 1900 real-world in-the-wild images with only low-quality images. The contents are from the same source as the KVQ datasets. The purpose is to improve the perceptual quality of images in the wild while maintaining the generalization capability. It is encouraged to utilize the diffusion models for methods. Other methods are also welcomed.
+
+This competition aims to establish a new and applicable benchmark for short-form User Generated Content (UGC) quality assessment and enhancement. We are looking forward to the collaborative efforts of our participants, aiming to elevate the quality of short-form video content. The first track will introduce an innovative evaluation methodology that incorporates a coarse-grained quality score measurement, along with fine-grained rankings for more challenging samples. The second track will introduce the user study and non-reference metrics for evaluation.
+
+The top-ranked participants will be awarded by KuaiShou Company and invited to follow the CVPR submission guide for workshops to describe their solution and to submit to the associated NTIRE workshop at CVPR 2025.
 
 
 ## Cite US
