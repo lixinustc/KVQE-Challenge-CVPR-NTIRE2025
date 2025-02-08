@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./figs/logo_competition.png" alt="image" style="width:1000px;">
+  <img src="./figs/KVQE Challenge.png" alt="image" style="width:1000px;">
 </p>
 
 # KVQ: Kwai Video Quality Assessment for Short-form Videos
