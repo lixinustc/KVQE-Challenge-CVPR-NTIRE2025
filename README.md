@@ -6,8 +6,8 @@
 # KVQE: Kwai Video Quality Assessment and Enhancement for Short-form Videos
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]()  [![Project](https://img.shields.io/badge/Project-Page-blue.svg)]() [![Data](https://img.shields.io/badge/Dataset-Link-magenta.svg)](https://drive.google.com/drive/folders/1dkC4NsxMrd6Rxm1IogKe71U8bYy76ojV?usp=sharing)
-[![Challenge-VQA](https://img.shields.io/badge/Competition-Codalab-purple.svg)](https://codalab.lisn.upsaclay.fr/competitions/21335) 
-[![Challenge-SR](https://img.shields.io/badge/Competition-Codalab-purple.svg)](https://codalab.lisn.upsaclay.fr/competitions/21346) 
+[![Challenge/VQA](https://img.shields.io/badge/Competition-Codalab-purple.svg)](https://codalab.lisn.upsaclay.fr/competitions/21335) 
+[![Challenge/SR](https://img.shields.io/badge/Competition-Codalab-purple.svg)](https://codalab.lisn.upsaclay.fr/competitions/21346) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/KVQE-Challenge-CVPR-NTIRE2025)
 ## :bookmark: News!!!
 - [x] 2025-02-07: **Two tracks of this competition have been started**
