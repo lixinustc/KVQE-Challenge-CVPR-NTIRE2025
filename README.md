@@ -13,6 +13,11 @@
 - [x] 2025-02-07: **Two tracks of this competition have been started**
 - [x] 2025-02-08: **The first track can refer to the [KVQ competition](https://github.com/lixinustc/KVQ-Challenge-CVPR-NTIRE2024) in the CVPR NTIRE 2024** 
 
+## :WeChat Group!!!
+<p align="left">
+  <img src="./figs/WeChat.png" alt="image" style="width:256px;">
+</p>
+
 ## 📌 Dataset for KVQE 
 
 ##  :tada: Challenge Description
