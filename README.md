@@ -11,7 +11,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lixinustc/KVQE-Challenge-CVPR-NTIRE2025)
 ## :bookmark: News!!!
 - [x] 2025-02-07: **Two tracks of this competition have been started**
-- [x] 2025-02-08: **The first track can refer to the [KVQ competition](https://github.com/lixinustc/KVQ-Challenge-CVPR-NTIRE2024) in the CVPR NTIRE 2024** 
+- [x] 2025-02-08: **The first track can refer to the [KVQ competition](https://github.com/lixinustc/KVQ-Challenge-CVPR-NTIRE2024) in the CVPR NTIRE 2024**
+- [ ] We will release two baselines for these two competitions soon. 
 
 ## :WeChat Group!!!
 <p align="left">
