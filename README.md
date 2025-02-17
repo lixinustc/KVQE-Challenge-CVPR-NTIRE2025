@@ -27,7 +27,7 @@ This competition has two tracks:
 
 The first track is efficient short-form UGC video quality assessment, and the second track is Diffusion-based Super-resolution for the Short-form UGC Images in the Wild. The first track utilizes the KVQ, i.e., the large-scale Kaleidoscope short Video database for Quality assessment, for training, and evaluation. The KVQ database compromises 600 user-uploaded short videos and 3600 processed videos through diverse practical processing workflows. Moreover, it contains nine primary content scenarios in the practical short-form video platform, including landscape, crowd, person, food, portrait, computer graphic (termed as CG), caption, and stage, covering almost all existing creation modes and scenarios, and the ratio of each category of content satisfies the practical online statistics. The quality score of each short-form video and the partial ranked score are annotated by professional researchers on image processing. 
 
-### [Diffusion-based Image Super-resolution for Short-form UGC images in the wild](https://codalab.lisn.upsaclay.fr/competitions/21346)
+### [Image Super-resolution for Short-form UGC images in the wild](https://codalab.lisn.upsaclay.fr/competitions/21346)
 
 The second track collected 1800 synthetic paired images with a simulation strategy from the real-world Kwai Platform and 1900 real-world in-the-wild images with only low-quality images. The contents are from the same source as the KVQ datasets. The purpose is to improve the perceptual quality of images in the wild while maintaining the generalization capability. It is encouraged to utilize the diffusion models for methods. Other methods are also welcomed.
 
