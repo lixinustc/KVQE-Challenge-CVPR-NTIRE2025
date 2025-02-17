@@ -15,7 +15,7 @@
 
 ## :WeChat Group!!!
 <p align="left">
-  <img src="./figs/WeChat.png" alt="image" style="width:256px;">
+  <img src="./figs/wechat.png" alt="image" style="width:256px;">
 </p>
 
 ## 📌 Dataset for KVQE 
