@@ -34,6 +34,25 @@ This competition aims to establish a new and applicable benchmark for short-form
 
 The top-ranked participants will be awarded by KuaiShou Company and invited to follow the CVPR submission guide for workshops to describe their solution and to submit to the associated NTIRE workshop at CVPR 2025.
 
+## :sparkles: Getting Start Efficient VQA Baseline
+
+### Prepare environment
+```bash
+conda create -n InternVQA python=3.10
+conda activate InternVQA
+pip install -r requirements.txt
+```
+
+### Pretrain Weight
+Baseline inference pertrained weight：TBD
+
+### Test
+Replace the dataset path and weight path in the run_KVQ_test.sh.
+```bash
+bash run_KVQ_test.sh
+```
+
+
 
 ## Cite US
 Please cite us if this work is helpful to you.
@@ -69,3 +88,4 @@ Please cite us if this work is helpful to you.
 The basic code is partially from the below repos.
 - [SimpleVQA](https://github.com/sunwei925/SimpleVQA)
 - [Dover](https://github.com/VQAssessment/DOVER)
+- [InternVideo2](https://github.com/OpenGVLab/InternVideo/tree/main/InternVideo2)
