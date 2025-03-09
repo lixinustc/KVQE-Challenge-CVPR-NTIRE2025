@@ -15,10 +15,7 @@
 - [x] 2025-03-08: **The code of score is released**
 - [x] 2025-03-08: **The result of baseline for KVQ is released.**  
 
-## :WeChat Group!!!
-<p align="left">
-  <img src="./figs/wechat.png" alt="image" style="width:256px;">
-</p>
+
 
 ## 📌 Dataset for KVQE 
 
