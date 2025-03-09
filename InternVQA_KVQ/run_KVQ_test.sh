@@ -1,0 +1,26 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 deepspeed  run_KVQ_test.py \
+--master_port 7701 \
+--model internvideo2_base_patch14_224 \
+--data_path your_path/kwai_competition/ \
+--prefix your_path/kwai_competition/ \
+--data_set 'KVQ' \
+--split ',' \
+--nb_classes 1 \
+--finetune weight/mp_rank_00_model_states.pt \
+--log_dir ./KVQ_test_output/prediction \
+--eval \
+--steps_per_print 10 \
+--batch_size 1 \
+--num_sample 2 \
+--input_size 224 \
+--short_side_size 224 \
+--num_frames 8 \
+--sampling_rate 8 \
+--num_workers 4 \
+--test_num_segment 4 \
+--test_num_crop 3 \
+--dist_eval \
+--enable_deepspeed \
+--bf16 \
+--zero_stage 1 \
+--opt_betas 0.9 0.999 \
