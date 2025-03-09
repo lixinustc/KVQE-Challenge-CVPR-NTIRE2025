@@ -40,6 +40,7 @@ The top-ranked participants will be awarded by KuaiShou Company and invited to f
 
 ## Cite US
 Please cite us if this work is helpful to you.
+
 ```
 @inproceedings{lu2024kvq,
   title={KVQ: Kwai Video Quality Assessment for Short-form Videos},
@@ -49,6 +50,15 @@ Please cite us if this work is helpful to you.
 }
 ```
 
+```
+@article{guan2025internvqa,
+  title={InternVQA: Advancing Compressed Video Quality Assessment with Distilling Large Foundation Model},
+  author={Guan, Fengbin and Yu, Zihao and Lu, Yiting and Li, Xin and Chen, Zhibo},
+  journal={IEEE ISCAS},
+  year={2025}
+}
+
+```
 ```
 @inproceedings{li2024ntire,
   title={NTIRE 2024 Challenge on Short-form UGC Video Quality Assessment: Methods and Results},
