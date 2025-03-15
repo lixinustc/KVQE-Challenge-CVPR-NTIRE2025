@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 
 ### Pretrain Weight
-Baseline inference pertrained weight：TBD
+[Baseline inference pertrained weight](https://drive.google.com/file/d/1RLo_tX6WfIPXwxwSoOln9-OomxZVJeP5/view?usp=drive_link)
 
 ### Test
 Replace the dataset path and weight path in the run_KVQ_test.sh.
