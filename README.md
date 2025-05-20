@@ -14,7 +14,8 @@
 - [x] 2025-02-08: **The first track can refer to the [KVQ competition](https://github.com/lixinustc/KVQ-Challenge-CVPR-NTIRE2024) in the CVPR NTIRE 2024**
 - [x] 2025-03-08: **The code of score is released**
 - [x] 2025-03-08: **The result of baseline for KVQ and inference code of InternVQA are released.**
-- [ ] 2025-04-05: The whole datasets of KVQ will be released with test data.  
+- [x] 2025-05-20: **The test data with label of KVQ has been released, which can be download from [link](https://drive.google.com/drive/folders/1HuN-xbkYaYzkKSq_9W5zv2gSYVHQ52dI?usp=sharing)
+  
 
 
 
