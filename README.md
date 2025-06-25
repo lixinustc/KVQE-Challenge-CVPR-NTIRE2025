@@ -15,7 +15,7 @@
 - [x] 2025-03-08: **The code of score is released**
 - [x] 2025-03-08: **The result of baseline for KVQ and inference code of InternVQA are released.**
 - [x] 2025-05-20: **The test data with label of KVQ has been released, which can be download from [link](https://drive.google.com/drive/folders/1HuN-xbkYaYzkKSq_9W5zv2gSYVHQ52dI?usp=sharing)**
-- [x] 2025-06-25: **The dataset of the KwaiSR dataset has been released at [LR-link](https://drive.google.com/file/d/1CPQo0YUtyxvtakZ04L20KgQjx78e-Roh/view?usp=sharing, https://drive.google.com/file/d/1UxDDOHD7zZH-Crb1FqEWXE2FD0bz23yj/view?usp=sharing) and [HR-link]([https://drive.google.com/file/d/1LQt4BhjzHD6z1obFQOWfdgalEX69j0ez/view?usp=sharing](https://drive.google.com/file/d/1LQt4BhjzHD6z1obFQOWfdgalEX69j0ez/view?usp=sharing)), which can be used in your work for comparison.
+- [x] 2025-06-25: **The dataset of the KwaiSR dataset has been released at [LR_link](https://drive.google.com/file/d/1CPQo0YUtyxvtakZ04L20KgQjx78e-Roh/view?usp=sharing, https://drive.google.com/file/d/1UxDDOHD7zZH-Crb1FqEWXE2FD0bz23yj/view?usp=sharing) and [HR_link]([https://drive.google.com/file/d/1LQt4BhjzHD6z1obFQOWfdgalEX69j0ez/view?usp=sharing](https://drive.google.com/file/d/1LQt4BhjzHD6z1obFQOWfdgalEX69j0ez/view?usp=sharing)), which can be used in your work for comparison.**
   
 
 
